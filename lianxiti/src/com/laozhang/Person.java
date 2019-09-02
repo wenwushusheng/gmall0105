@@ -8,7 +8,7 @@ public class Person{
     public int age;
 
     public static void main(String[] args) {
-        System.out.println("你是风儿我是沙");
+        System.out.println("你是风儿我是沙,缠缠绵绵到天涯");
     }
 
    /*     Arrays.sort(arr,new Comparator(){
